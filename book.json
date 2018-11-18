@@ -5,6 +5,7 @@
     "lunr",
     "search",
     "highlight",
-    "livereload"
+    "livereload",
+    "jsfiddle"
   ]
 }
