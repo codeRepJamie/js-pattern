@@ -11,3 +11,5 @@
     * [外观模式](js-design-patterns/facade-pattern.md)
     * [工厂模式](js-design-patterns/factory-pattern.md)
     * [混合模式](js-design-patterns/mixin-pattern.md)
+    * [装饰者模式](js-design-patterns/decorator-pattern.md)
+    * [享元模式](js-design-patterns/fly-weight-pattern.md)
